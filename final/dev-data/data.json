@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "productName": "Fresh Avocados",
+    "productName": "Avocados",
     "image": "🥑",
     "from": "Spain",
     "nutrients": "Vitamin B, Vitamin K",
@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    "productName": "Apollo Broccoli",
+    "productName": "Broccoli",
     "image": "🥦",
     "from": "Portugal",
     "nutrients": "Vitamin C, Vitamin K",
